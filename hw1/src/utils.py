@@ -18,7 +18,7 @@ def get_es_client() -> Elasticsearch:
     return Elasticsearch(
         ES_HOST,
         basic_auth=(ES_USER, ES_PASSWORD),
-        verify_certs=ES_VERIFY_CERTS,
+        verify_certs=False,
         request_timeout=60,
     )
 

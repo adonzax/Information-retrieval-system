@@ -1,0 +1,3 @@
+<EMAILID>8</EMAILID>
+<TEXT>Free cryptocurrency giveaway. Send 1 BTC get 10 back!</TEXT>
+<LABEL>spam</LABEL>

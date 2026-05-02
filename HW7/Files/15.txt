@@ -1,0 +1,3 @@
+<EMAILID>15</EMAILID>
+<TEXT>Team update: Great progress on the marketing campaign this week!</TEXT>
+<LABEL>ham</LABEL>

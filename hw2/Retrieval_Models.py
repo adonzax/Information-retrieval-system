@@ -252,10 +252,10 @@ def main():
         print("Running Query %d / %d" % (i, len(qNums)))
 
         # Toggle the models you want to run:
-        # Total_okapiTF(qNo, termVector, termStats, docInfo, avgDocLen)
-        # Okapi_BM25(qNo, termVector, termStats, docInfo, avgDocLen)
-        # UnigramLM_Laplace(qNo, termVector, termStats, docInfo, V)
-        # UnigramLM_JelinekMercer(qNo, termVector, termStats, docInfo, V)
+        Total_okapiTF(qNo, termVector, termStats, docInfo, avgDocLen)
+        Okapi_BM25(qNo, termVector, termStats, docInfo, avgDocLen)
+        UnigramLM_Laplace(qNo, termVector, termStats, docInfo, V)
+        UnigramLM_JelinekMercer(qNo, termVector, termStats, docInfo, V)
         proximity(qNo, termVector, termStats, docInfo, V)
     print("Done!")
 

@@ -1,0 +1,3 @@
+<EMAILID>7</EMAILID>
+<TEXT>Lowest mortgage rates ever. Refinance today!</TEXT>
+<LABEL>spam</LABEL>

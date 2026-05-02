@@ -1,0 +1,3 @@
+<EMAILID>6</EMAILID>
+<TEXT>You've won a $1000 gift card. Claim within 24 hours!</TEXT>
+<LABEL>spam</LABEL>

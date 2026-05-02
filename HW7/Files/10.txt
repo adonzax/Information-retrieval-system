@@ -1,0 +1,3 @@
+<EMAILID>10</EMAILID>
+<TEXT>Meet singles in your area tonight. Sign up free!</TEXT>
+<LABEL>spam</LABEL>

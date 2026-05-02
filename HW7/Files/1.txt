@@ -1,0 +1,3 @@
+<EMAILID>1</EMAILID>
+<TEXT>WINNER! You've won a free iPhone! Click here to claim your prize now!</TEXT>
+<LABEL>spam</LABEL>

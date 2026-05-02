@@ -1,0 +1,3 @@
+<EMAILID>4</EMAILID>
+<TEXT>Urgent: Your account has been compromised. Verify your details immediately.</TEXT>
+<LABEL>spam</LABEL>

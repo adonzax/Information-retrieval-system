@@ -1,0 +1,3 @@
+<EMAILID>18</EMAILID>
+<TEXT>Happy birthday! Hope you have a wonderful day!</TEXT>
+<LABEL>ham</LABEL>

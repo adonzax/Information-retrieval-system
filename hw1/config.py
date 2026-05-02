@@ -20,9 +20,9 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # ---------------------------------------------------------------------------
 ES_HOST = os.environ.get("ES_HOST", "https://localhost:9200")
 ES_USER = os.environ.get("ES_USER", "elastic")
-ES_PASSWORD = os.environ.get("ES_PASSWORD", "changeme")
+ES_PASSWORD = os.environ.get("ES_PASSWORD", "MFZVm=cRC6mLp3FiuXp0")
 # Set to False if you are using a self-signed cert in dev (default for ES 8)
-ES_VERIFY_CERTS = os.environ.get("ES_VERIFY_CERTS", "false").lower() == "true"
+ES_VERIFY_CERTS = os.environ.get("ES_VERIFY_CERTS", "false").lower() == "false"
 
 INDEX_NAME = "cranfield"
 

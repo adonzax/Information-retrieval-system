@@ -1,0 +1,3 @@
+<EMAILID>5</EMAILID>
+<TEXT>Buy Viagra and Cialis online. Best prices guaranteed!</TEXT>
+<LABEL>spam</LABEL>

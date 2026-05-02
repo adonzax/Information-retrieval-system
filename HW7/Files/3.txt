@@ -1,0 +1,3 @@
+<EMAILID>3</EMAILID>
+<TEXT>Congratulations! You've been selected for a free vacation. Reply now!</TEXT>
+<LABEL>spam</LABEL>
